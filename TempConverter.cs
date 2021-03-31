@@ -11,6 +11,8 @@ namespace StaticExercise
         public static double CelsiusToFahrenheit(double Celsius)
         {
             return (Celsius * 9) / 37;
+
+
            
         }
         
