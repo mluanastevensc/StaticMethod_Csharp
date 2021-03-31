@@ -11,7 +11,6 @@ namespace StaticExercise
             Console.WriteLine(celsius);
             Console.WriteLine(Far);
         }
-        
       
     }
 }
